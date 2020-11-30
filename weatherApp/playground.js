@@ -6,7 +6,7 @@ const user = {
     place,
     country : "India"
 }
-console.log(user);
+// console.log(user);
 //Object destructuring
 const product = {
     label : 'Red notebook',
@@ -19,8 +19,23 @@ const product = {
     // console.log(label,stock);
 // const { label : productLabel, stock, rating = 5 } = product
 // console.log(productLabel,stock, rating);
-const transaction = (type, {label, stock} ) => {
+// const transaction = (type, {label, stock} ) => {
     // label = 7
-    console.log(type,label,stock)
-}
-transaction('order',product);
+    // console.log(type,label,stock)
+// }
+// transaction('order',product);
+
+//connecting server--
+
+
+
+
+
+
+
+
+
+
+
+
+
